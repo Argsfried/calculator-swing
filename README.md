@@ -1,5 +1,5 @@
 # Calculator | Java
-# Calculator made in Java when I got bored months ago.
+# Calculator made in Java.
 
 # Features:
 - Pretty much any calculator could do
